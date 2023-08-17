@@ -1,6 +1,7 @@
 
 # SecurePix
 
+https://docs.google.com/presentation/d/12xXd34a_39wlrjpMBhulqnkBisfMJV0S/edit?usp=drive_link&ouid=116428939172762510058&rtpof=true&sd=true
 
 SecurePix is a cutting-edge blockchain-powered web application designed to provide users with a secure and private platform for storing and sharing their photos and files. Leveraging the Ethereum blockchain and IPFS (InterPlanetary File System), SecurePix ensures data integrity, permanence, and decentralized storage.
 
